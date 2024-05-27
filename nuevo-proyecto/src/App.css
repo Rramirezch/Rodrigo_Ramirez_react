@@ -1,0 +1,31 @@
+.container{
+    width: 350px;
+    background-color: aquamarine;
+    margin-left: 10px;
+    border: 2px solid green;
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    alt: 500px;
+}
+img{
+    width: 270px;
+    margin-inline: 30px;
+    border: solid 1px black;
+    border-radius: 7px;
+
+}
+.texto{
+    color: brown;
+}
+.container1{
+    width: 350px;
+    background-color: aquamarine;
+    margin-left: 10px;
+    border: 2px solid green;
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
