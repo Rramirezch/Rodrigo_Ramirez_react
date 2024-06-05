@@ -1,0 +1,37 @@
+.principal-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.card-container{
+    background-color: rgb(203, 238, 133);
+    border: 3px solid blueviolet;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-left: 15px;
+    text-align: center;
+    margin-top: 5px;
+    width: 250px;
+
+}
+.title{
+    color: brown;
+    font-size: 25px;
+    margin-bottom: -10px;
+}
+.detail{
+    color: rgb(255, 0, 85);
+    display: flex;
+    margin-left: 20px;
+}
+.estado{
+    margin-left: 5px;
+}
+.titulo{
+    margin-top: -15px;
+}
+img{
+    height: 200px;
+    border-radius: 3px;
+}
